@@ -1,0 +1,4 @@
+my_array = [1,2,3,4,6]
+puts my_array.reverse
+puts my array.length
+puts "{#my_array.shuffle}"
